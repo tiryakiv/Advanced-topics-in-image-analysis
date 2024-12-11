@@ -1,4 +1,4 @@
-This is the Istanbul Technical University Advanced topics in image analysis Graduate Course Web Page 
+This is the github page for Istanbul Technical University Graduate Course entitled "Advanced topics in image analysis"   
 
 
 Here is the link for the main source of my course:
