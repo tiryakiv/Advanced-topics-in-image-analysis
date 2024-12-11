@@ -1,4 +1,4 @@
-This is the github page for Istanbul Technical University Graduate Course entitled "Advanced topics in image analysis"   
+This is the github page for Istanbul Technical University BBL588 Graduate Course titled "Advanced topics in image analysis"   
 
 
 Here is the link for the main source of my course:
